@@ -7,7 +7,7 @@ from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
 
 # Initialize Hands
 mp_hands = mp.solutions.hands
-hands = mp_hands.Hands(static_image_mode=False, model_complexity=1, min_detection_confidence=0.75, min_tracking_confidence=0.75, max_num_hands=4)
+hands = mp_hands.Hands(static_image_mode=False, model_complexity=1, min_detection_confidence=0.75, min_tracking_confidence=0.75, max_num_hands=1) #READ: max_num_hands for now is 1, but in the future for mute command we will set 2 here. Never change this value, it will cause only problems
 
 # Get default audio device
 devices = AudioUtilities.GetSpeakers()
