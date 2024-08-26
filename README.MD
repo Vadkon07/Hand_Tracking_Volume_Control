@@ -12,8 +12,11 @@ It can be very useful if your laptop/PC is placed in front of pool, in the kitch
 ## Requirements
 
 **Specifications:** I tested it on one laptop with Intel Core i7 11 Gen + 16GB of RAM, and it works perfectly. I'm not sure about older processors, so share you experience with me!
+
 **Packages:** You have to install some packages as cv2 and mediapipe, it's necessary to make this app able to work.
+
 **Operational System:** Probably for now it works only on Windows, but soon we will solve it!
+
 **Web Camera:** It's better if this camera is 720p+. Probably it also works with DSLR cameras, check it.
 
 ## To-Do
