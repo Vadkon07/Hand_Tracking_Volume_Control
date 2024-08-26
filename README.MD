@@ -12,10 +12,13 @@ It can be very useful if your laptop/PC is placed in front of pool, in the kitch
 ## Requirements
 
 **Specifications:** I tested it on one laptop with Intel Core i7 11 Gen + 16GB of RAM, and it works perfectly. I'm not sure about older processors, so share you experience with me!
-**Packages:** You have to install some packages as cv2, it's necessary to make this app able to work.
+**Packages:** You have to install some packages as cv2 and mediapipe, it's necessary to make this app able to work.
+**Operational System:** Probably for now it works only on Windows, but soon we will solve it!
+**Web Camera:** It's better if this camera is 720p+. Probably it also works with DSLR cameras, check it.
 
 ## To-Do
 
-- [ ] Add mute if we show both hands in one time
+- [ ] Add mute if input is with both hands in one time
 - [ ] Improve accuracy
 - [ ] Maybe add something for face detection
+- [ ] Optimise for Linux (on Acer Aspire One D260 with installed Arch Linux I got next error: Illegal instruction (core dumped)
