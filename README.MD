@@ -6,8 +6,9 @@ It can be very useful if your laptop/PC is placed in front of pool, in the kitch
 
 ## Features
 
-1. Works offline
-2. Can be customized, has a lot of different settings inside code
+1. Works offline.
+2. Can be customized, has a lot of different settings inside code.
+3. **Two versions!:** With first version "main_hands" you can change volume by showing your hands, and with second version "main_fingers" you can change volume by showing your index finger.
 
 ## Requirements
 
@@ -23,5 +24,4 @@ It can be very useful if your laptop/PC is placed in front of pool, in the kitch
 
 - [ ] Add mute if input is with both hands in one time
 - [ ] Improve accuracy
-- [ ] Maybe add something for face detection
 - [ ] Optimise for Linux (on Acer Aspire One D260 with installed Arch Linux I got next error: Illegal instruction (core dumped)
